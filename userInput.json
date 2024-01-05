@@ -1,0 +1,7 @@
+{
+    "Apikey": "demo",
+    "email": "tabouzou@gmail.com",  
+    "stock symbols": ["IBM", "MSFT"],
+    "Email Alert": true, 
+    "Percentage to alert": 10 
+}
